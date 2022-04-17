@@ -12,7 +12,7 @@
 
 ### Screenshot -->
 
-![](https://dyrk.org/wp-content/uploads/2016/09/Capture-28-1024x584.png)
+![](https://biolibre.fr/images/articles/codewars.jpg)
 
 <!--
 ## My process
