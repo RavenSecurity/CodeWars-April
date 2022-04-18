@@ -10,10 +10,11 @@
   - [Built with](#built-with)
   - [Author](#author)
 
-### Screenshot
+### Screenshot -->
 
-![](./images/screenshot.png)
+![](https://biolibre.fr/images/articles/codewars.jpg)
 
+<!--
 ## My process
 
 Only one div for the whole subject then let display flex do its magic.
